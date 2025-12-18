@@ -1,0 +1,34 @@
+# Flutter / Dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+pubspec.lock
+
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/.symlinks/
+/ios/Pods/
+/ios/Runner.xcworkspace
+*.xcworkspace
+*.xcuserstate
+
+# Electron / Node.js
+electron_app/node_modules/
+
+electron_app/dist/
+electron_app/out/
+npm-debug.log
+yarn-error.log
+
+
+node_modules/
+backend/pos-server/node_modules/
